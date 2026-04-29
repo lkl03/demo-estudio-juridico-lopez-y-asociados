@@ -1,2 +1,7 @@
-# demo-estudio-juridico-lopez-y-asociados
-Demo web para Estudio Jurídico López y Asociados — diseñada por eterlab.
+# Estudio Jurídico López y Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
